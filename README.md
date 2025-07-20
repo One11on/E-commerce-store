@@ -26,7 +26,7 @@ This is a Django-based web application for a simple e-commerce store. It include
 git clone https://github.com/One11on/E-commerce-store.git
 
 # Navigate into the project
-cd simple-ecommerce-store/ecommerce
+cd E-commerce_store
 
 # (Optional) Create virtual environment
 python -m venv env
